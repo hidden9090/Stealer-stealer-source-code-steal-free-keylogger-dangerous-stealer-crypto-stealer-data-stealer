@@ -6,7 +6,7 @@
  
 🚧 Disclaimer  :-   
 
-This program is for educational purposes only.
+This program is for educational purposes only. 
 
 How you use this program is your responsibility.
 
